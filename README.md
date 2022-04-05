@@ -9,7 +9,7 @@ AI Planning and Reinforcement Learning are used to learn robotic programs.
 | ---- | ---- | ---- | ---- |
 |AI Planning Annotation for Sample Efficient Reinforcement Learning|arXiv|2022|[link](https://arxiv.org/abs/2203.00669)|
 |AI Planning Annotation in Reinforcement Learning: Options and Beyond|ICAPS|2021|[link](https://prl-theworkshop.github.io/prl2021/papers/PRL2021_paper_36.pdf)|
-|Symbolic Plans as High-Level Instructions for Reinforcement Learning||ICAPS|2020|[link](https://ojs.aaai.org/index.php/ICAPS/article/view/6750/6604)|
+|Symbolic Plans as High-Level Instructions for Reinforcement Learning|ICAPS|2020|[link](https://ojs.aaai.org/index.php/ICAPS/article/view/6750/6604)|
 |PEORL: Integrating Symbolic Planning and Hierarchical Reinforcement Learning for Robust Decision-Making|IJCAI|2018|[link](https://www.ijcai.org/Proceedings/2018/0675.pdf)|
 
 
